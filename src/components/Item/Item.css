@@ -1,0 +1,28 @@
+.item-info img {
+    height: 15rem;
+    width: 15rem;
+    padding: 8px 7px;
+    border-radius: 10px;
+}
+
+.item-info {
+    border: 1px solid gray;
+    height: 30rem;
+    width: 16rem;
+    position: relative;
+}
+
+.item-text {
+    margin-left: 14px;
+}
+
+.btn-detail {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    border: 0;
+}
+
+.btn-detail:hover {
+    background-color: gray;
+}
